@@ -16,3 +16,7 @@ Out of scope:
 - Security cameras or monitoring
 - UI/display systems
 - Reservations or pre-booking
+
+
+
+[Hello Interview link](https://www.hellointerview.com/learn/low-level-design/problem-breakdowns/parking-lot)
